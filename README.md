@@ -36,3 +36,7 @@ RAM: 4GB
 
 * [Responsive Web Development with Bootstrap 4 and Angular 7 [Video]](https://www.packtpub.com/web-development/responsive-web-development-bootstrap-4-and-angular-7-video?utm_source=github&utm_medium=repository&utm_campaign=9781789615272)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781849696821">https://packt.link/free-ebook/9781849696821 </a> </p>
